@@ -6,8 +6,9 @@
   </a>
 </h1>
 
-<h5 align="center">
-<img src="https://raw.githubusercontent.com/Rohitkr20029/Rohitkr20029/main/download.gif" height="500">
+<h5 align="center"><p align="center">
+  <img src="https://raw.githubusercontent.com/Rohitkr20029/Rohitkr20029/main/download.gif" width="900" height="400">
+</p>
 </a>
 </h5>
 <br>
