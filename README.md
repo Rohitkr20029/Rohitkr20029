@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am backend developer and right now i am right now i am doing internship at Hivoco company and i am passionate about backend develpoing and making projects to increase my skills and right i know language right now is javascript and backend tech skills
+Passionate Backend Developer currently interning at Hivoco Company. Skilled in JavaScript and backend technologies, with a strong interest in building scalable APIs, secure authentication systems, and real-world backend projects to continuously grow as a developer.
 
 
 ## 🌐 Socials:
