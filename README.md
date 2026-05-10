@@ -7,9 +7,7 @@
 </h1>
 
 <h5 align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rohitkr20029/MyPortfolio/main/images/cat.gif" width="100%" alt="Animated Banner"/>
-</p>
+![gif](https://github.com/Rohitkr20029/Rohitkr20029/blob/main/download.gif)
 </a>
 </h5>
 <br>
