@@ -11,10 +11,7 @@
   <code><a href="https://www.linkedin.com/zumrudu_anka" title="Linkedin Profile"><img width="22" src="images/Linkedin.png"> HackerRank</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-Passionate Backend Developer currently interning at Hivoco Company. Skilled in JavaScript and backend technologies, with a strong interest in building scalable APIs, secure authentication systems, and real-world backend projects to continuously grow as a developer.
+Hi, I am Rohit Kumar, a passionate Backend Developer currently interning at Hivoco Company. Skilled in JavaScript and backend technologies, with a strong interest in building scalable APIs, secure authentication systems, and real-world backend projects to continuously grow as a developer.
 
 
 ## 🌐 Socials:
