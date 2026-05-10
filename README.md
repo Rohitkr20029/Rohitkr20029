@@ -34,10 +34,3 @@ Hi, I am Rohit Kumar, a passionate Backend Developer currently interning at Hivo
     </a>
   </div>
   <br>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Rohitkr2002&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
