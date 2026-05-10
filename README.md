@@ -1,7 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rohitkr20029.Rohitkr20029">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<br>
-<br>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,8 +7,13 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="www.linkedin.com/in/rohitkumar20029/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.Gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.png"> Gmail</a></code>
+  <a href="https://github.com/yourusername" target="_blank">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    alt="GitHub" 
+    width="30"
+  />
+</a>
 </h5>
 <br>
 Hi, I am Rohit Kumar, a passionate Backend Developer currently interning at Hivoco Company. Skilled in JavaScript and backend technologies, with a strong interest in building scalable APIs, secure authentication systems, and real-world backend projects to continuously grow as a developer.
