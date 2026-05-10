@@ -1,4 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rohitkr20029.Rohitkr20029">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<br>
+<br>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
