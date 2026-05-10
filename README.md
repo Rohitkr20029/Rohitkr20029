@@ -7,12 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    alt="GitHub" 
-    width="30"
-  />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rohitkr20029/MyPortfolio/main/images/cat.gif" width="100%" alt="Animated Banner"/>
+</p>
 </a>
 </h5>
 <br>
