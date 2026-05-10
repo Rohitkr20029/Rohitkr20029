@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.linkedin.com/zumrudu_anka" title="Linkedin Profile"><img width="22" src="images/Linkedin.png"> HackerRank</a></code>
+  <code><a href="www.linkedin.com/in/rohitkumar20029/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.Gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.png"> Gmail</a></code>
 </h5>
 <br>
 Hi, I am Rohit Kumar, a passionate Backend Developer currently interning at Hivoco Company. Skilled in JavaScript and backend technologies, with a strong interest in building scalable APIs, secure authentication systems, and real-world backend projects to continuously grow as a developer.
