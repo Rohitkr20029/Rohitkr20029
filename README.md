@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-![gif](https://github.com/Rohitkr20029/Rohitkr20029/blob/main/download.gif)
+![gif](https://raw.githubusercontent.com/Rohitkr20029/Rohitkr20029/main/download.gif)
 </a>
 </h5>
 <br>
